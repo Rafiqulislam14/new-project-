@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    border: 10px;
+    padding: 25px;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+strong{
+    color: aliceblue;
+}
+#style{
+    color: aqua;
+    text-align: center;
+}
+
+.size{
+    font-size: large;
+}
